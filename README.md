@@ -1,11 +1,8 @@
-# Indian-Banking-Transactions-Analysis
+# Indian-Banking-Transactions-Analysis Using Advanced Excel
 Indian Banking Transactions Analysis using Advanced Excel – Data Cleaning, PivotTables, Dashboard and Business Insights.
 
 
 This folder contains the original and cleaned banking transaction datasets.
-
-
-# Indian Banking Transactions Analysis Using Advanced Excel
 
 ## 1. Project Overview
 
