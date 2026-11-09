@@ -140,3 +140,17 @@ This project demonstrates how Microsoft Excel can be used for data cleaning, dat
 ## 14. Skills Demonstrated
 
 Microsoft Excel | Data Cleaning | Data Analysis | PivotTables | Data Visualization | Dashboard Development | Business Insights
+
+## 15. Project Screenshots
+
+### Excel Dashboard
+![Banking Dashboard](Screenshots/Banking_Dashboard.png)
+
+### PivotTables
+![Banking PivotTables](Screenshots/Banking_PivotTables.png)
+
+### Data Quality Analysis
+![Data Quality](Screenshots/Banking_Data_Quality.png)
+
+### Data Dictionary
+![Data Dictionary](Screenshots/Banking_Data_Dictionary.png)
