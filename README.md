@@ -150,7 +150,8 @@ Microsoft Excel | Data Cleaning | Data Analysis | PivotTables | Data Visualizati
 ![Banking PivotTables](Screenshots/Banking_PivotTables.png)
 
 ### Data Quality Analysis
-![Data Quality](Screenshots/Banking_Data_Quality.png)
+![Data Quality](Screenshots/Banking_Data_Quality.png.png)
+
 
 ### Data Dictionary
-![Data Dictionary](Screenshots/Banking_Data_Dictionary.png)
+![Data Dictionary](Screenshots/Banking_Data_Dictionary.png.png)
